@@ -95,20 +95,21 @@ Ik heb een begin gemaakt aan de website pagina 1. Ik herkende veel elementen van
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Vragen:
+1. Hoe kan je de CSS specifeceren dat het alleen betrekking heeft op bepaalde elementen en niet alle?
+2. Wanneer section en wanneer class gebruiken?
+3. Bij mijn 'bestsellers' heb ik 4 onderdelen. Ik wil ze 2x2 onder elkaar. Hoe doe ik dat?
 
-
+   
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- position relative gebruiken
+- Class heet product en met betrekking op p die je een andere kleur wilt geven
+.product p {
+Color: white;
+}
+- Shop bestsellers: via grid onder elkaar zetten
 
 </details>
 
