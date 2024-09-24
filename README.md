@@ -90,7 +90,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik heb een begin gemaakt aan de website pagina 1. Ik herkende veel elementen van een website die ik in jaar 1 heb gemaakt voor inleiding programmeren dus die kennis heb ik handig in kunnen zetten voor dit vak. Zo heb ik in 1 sessie de nav opgezet, groot deel van de body incl content en posititioneringen. Omdat ik telkens voortgang zag motiveerde dit mij om door te gaan. Ik vind het fijn dat je gelijk ziet waar je mee bezig bent en dat iets werkt. Hetgeen waar ik tegenaan liep was de css voor de tekst. Ik merkte dat wanneer ik de CSS van een UL aanpaste, dit voor elke UL geldt. Dit wilde ik alleen voor een bepaalde lijst, maar wist niet goed hoe ik dit moest aanpakken. Ik had uit de les onthouden dat nth-of-type hier een mogelijke oplossing voor zou kunnen bieden, maar in mijn geval deed dat niet wat ik wilde. Ondanks ik de nth-of-type had gespecificeerd op (1), had dit alsnog toepassing op elke UL. Deze vraag heb ik onthouden voor in het Voortgangsgesprek.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
