@@ -166,30 +166,20 @@ Omdat Demi en ik maar met z'n tweeen waren met twee studenten assistentes hebben
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+ Ik was helaas ziek tijdens het laatste voortgangsgesprek. Ik baalde hier oprecht wel van aangezien ik nog een lijstje met vragen had opgesteld over de week om te stellen. Ook had het feit dat ik ziek was invloed op mijn mondeling, ik lag het hele weekend met koorts thuis en voelde mij ook niet goed genoeg om op locatie te komen voor het mondelingsgesprek. Hierdoor liep het door naar mijn herkansing. (zie week 5 voor die update) Wel ben ik verder gaan werken aan de opdracht. Na het berichten van mijn afwezigheid kwamen we tot de conclusie dat mijn github repository niet update wanneer ik de changes commit in VScode (terwijl ik dit schrijf ben ik er nogsteeds niet achter waar dit aan kan liggen). Ondanks dat heb ik gewoon verder gewerkt aangezien ik gelukkig wel op mijn live server alle veranderingen en voortgang kon zien. 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+Vragen voortgangsgesprek:
+1. Eigen font erin zetten?
+2. Javascript checken of ik het goed heb gedaan
+3. Mag ik die classes gebruiken voor de text carrousel?
+4. Text carrousel help kijk
+5. Position fixed voor de navigatie? Werkt niet?
+6. Border radius bij video past ie alleen toe op de onderkant, niet bovenkant
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
+ Ik heb uiteindelijk een deel van de vragen met hulp van ChatGPT kunnen oplossen. Toch wel fijn dat zo'n AI op elk moment je even te hulp kan schieten. Daarnaast heb ik Thomas de studentassistent gevraagd om naar mijn javascript te kijken en hij vertelde mij dat dat allemaal in orde was. De position fixed hebben we samen naar gekeken maar wanneer we dat toepasten op de navigatie bleef het wel in beeld, maar veranderde de hele nav. Wanneer we de vormgeving hiervan veranderde, deed de fixed het ook gelijk niet meer. We hebben hier een tijd mee geprobeerd, maar uiteindelijk besloten om het er weer uit te halen. Het zorgde namelijk voor meer problemen dan dat het voortgang bracht. 
+ Wat betreft de eigen font, ben ik erachter gekomen hoe dit moest (iets dat ik alweer was vergeten uit het eerste jaar), maar kwam erachter dat je moest betalen om die font te kunnen gebruiken. Ik heb voor alle ofnts op de site een alternatief gevonden. Hiervoor was een extensie downloaden niet nodig dus heb ik die gelijk in mijn CSS kunnen zetten.
 
 
 
