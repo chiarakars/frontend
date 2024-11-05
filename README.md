@@ -1,4 +1,4 @@
-# Procesverslag
+![webversie1-screenshot](https://github.com/user-attachments/assets/6dfc54a5-9908-41d2-9254-297923cf8d00)# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -79,14 +79,7 @@ Ik sta op dit moment op het blauwe niveau, ik vind het oprecht wel interessant o
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+zie eindgesprek week 5 onderaan de pagina
 </details>
 
 
@@ -137,6 +130,9 @@ Color: white;
 In deze week was ik erachter gekomen dat ik mijn site op mobiel formaat moest maken (en niet desktop wat ik had gedaan). Dit was volledig langs mij gegaan en hier baalde ik erg van. Ik had inmiddels al grotendeels van mijn eerste pagina af, maar wanneer ik dit omzette naar mobiel klopte er niks meer van de verhoudingen. Ik ben hiervoor naar de docent gestapt en het antwoord op mijn situatie (waar ik al bang voor was) was dat ik het beste opnieuw kon beginnen. Hier zakte de moed mij eerlijk gezegd wel een beetje in de schoenen. Ik had er veel tijd ingestoken en had het idee dat ik al goed op dreef was, en om vervolgens dit te horen is wel taai. Hierdoor had ik ook een stuk minder motivatie en merkte ik dat ik deze opdracht ging uitstellen. 
 Een les later legde ik de situatie voor aan een van de student assistentes en die vertelde mij dat het helemaal niet nodig was om opnieuw te beginnen, maar dat ik hele stukken code gewoon kon kopieren. Zelf wist ik hier niet goed een begin mee te maken, maar gelukkig werd ik goed geholpen om een begin op te zetten. Van hieruit kon ik zelf verder en zag ik dat al het werk toch niet voor niks was geweest. Hierdoor kwam de motivatie gelukkig weer wat meer in mij op. Thuis, in het weekend, ben ik verder aan de slag gegaan met de vormgeving van de site om alles juist te positioneren.
 
+
+  <img src="readme-images/webversie1-screenshot.png" width="375px" alt="versie 1">
+
   ### Agenda voor meeting
   samen met je groepje opstellen
 Omdat Demi en ik maar met z'n tweeen waren met twee studenten assistentes hebben wij niet van te voren de vragen uitgeschreven op een lijstje, maar on the spot onze vragen gesteld. We hadden hier een soort 1 op 1 begeleiding wat heel fijn was. Ze hebben meegekeken en handige linkjes doorgestuurd die van toepassing zouden kunnen komen voor onze sites. 
@@ -177,7 +173,9 @@ Omdat Demi en ik maar met z'n tweeen waren met twee studenten assistentes hebben
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
- Ik was helaas ziek tijdens het laatste voortgangsgesprek. Ik baalde hier oprecht wel van aangezien ik nog een lijstje met vragen had opgesteld over de week om te stellen. Ook had het feit dat ik ziek was invloed op mijn mondeling, ik lag het hele weekend met koorts thuis en voelde mij ook niet goed genoeg om op locatie te komen voor het mondelingsgesprek. Hierdoor liep het door naar mijn herkansing. (zie week 5 voor die update) Wel ben ik verder gaan werken aan de opdracht. Na het berichten van mijn afwezigheid kwamen we tot de conclusie dat mijn github repository niet update wanneer ik de changes commit in VScode (terwijl ik dit schrijf ben ik er nogsteeds niet achter waar dit aan kan liggen). Ondanks dat heb ik gewoon verder gewerkt aangezien ik gelukkig wel op mijn live server alle veranderingen en voortgang kon zien. 
+ Ik was helaas ziek tijdens het laatste voortgangsgesprek. Ik baalde hier wel van aangezien ik nog een lijstje met vragen had opgesteld over de week om te stellen. Ook had het feit dat ik ziek was invloed op mijn mondeling, ik lag het hele weekend met koorts thuis en voelde mij ook niet goed genoeg om op locatie te komen voor het mondelingsgesprek. Hierdoor liep het door naar mijn herkansing. (zie week 5 voor die update) 
+ Na het berichten van mijn afwezigheid kwamen we tot de conclusie dat mijn github repository niet update wanneer ik de changes commit in VScode (terwijl ik dit schrijf ben ik er nogsteeds niet achter waar dit aan kan liggen). Ondanks dat heb ik gewoon verder gewerkt aangezien ik gelukkig wel op mijn live server alle veranderingen en voortgang kon zien. 
+ Wel ben ik verder gaan werken aan de opdracht. Ik ben begonnen aan pagina 2 en alles daarvan in html gezet, omdat ik er lekker in zat heb ik ook gelijk het grootste deel van de css daarvan gedaan. ik kon een fijn voorbeeld nemen aan mijn index pagina, waardoor deze pagina ook een stuk vlotter ging.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -194,7 +192,9 @@ Vragen voortgangsgesprek:
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
  Ik heb uiteindelijk een deel van de vragen met hulp van ChatGPT kunnen oplossen. Toch wel fijn dat zo'n AI op elk moment je even te hulp kan schieten. Daarnaast heb ik Thomas de studentassistent gevraagd om naar mijn javascript te kijken en hij vertelde mij dat dat allemaal in orde was. De position fixed hebben we samen naar gekeken maar wanneer we dat toepasten op de navigatie bleef het wel in beeld, maar veranderde de hele nav. Wanneer we de vormgeving hiervan veranderde, deed de fixed het ook gelijk niet meer. We hebben hier een tijd mee geprobeerd, maar uiteindelijk besloten om het er weer uit te halen. Het zorgde namelijk voor meer problemen dan dat het voortgang bracht. 
- Wat betreft de eigen font, ben ik erachter gekomen hoe dit moest (iets dat ik alweer was vergeten uit het eerste jaar), maar kwam erachter dat je moest betalen om die font te kunnen gebruiken. Ik heb voor alle ofnts op de site een alternatief gevonden. Hiervoor was een extensie downloaden niet nodig dus heb ik die gelijk in mijn CSS kunnen zetten.
+ Wat betreft de eigen font, ben ik erachter gekomen hoe dit moest (iets dat ik alweer was vergeten uit het eerste jaar), maar kwam erachter dat je moest betalen om die font te kunnen gebruiken. Ik heb voor alle fonts op de site een alternatief gevonden. Hiervoor was een extensie downloaden niet nodig dus heb ik die gelijk in mijn CSS kunnen zetten.
+
+Op dit moment staat alle content erin en vormgegeven met css. Ik heb de repository gelukkig zelf kunnen fixen na heel wta uit te proberen. Het bleek dat de nieuwe files nog niet gekoppeld waren en nadat ik dit had gefixt was ook via github mijn site te bekijken. Wel moet ik nog aanpassen dat de img's bekeken kunnen worden. Dit is namelijk nu nog niet het geval, je ziet alleen het feit dat er een img moet staan met de alt tekst erbij. Hierbij heb ik hulp aan Thomas gevraagd die mij via facetime verder gaat helpen.
 
 </details>
 
@@ -208,17 +208,19 @@ Vragen voortgangsgesprek:
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/hamburger-ss.png" width="375px" alt="hamburger menu">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+ik heb het meeste geleerd van het css vormgeven. hoe je specifieke codes uit html kan aanslaan en in css kan vormgeven. op een gegeven moment bouw je de kennis van css op dat je uit je hoofd de benamingen voor bijvoorbeeld tekstdikte (font-weight) of snel een padding of margin kan toevoegen. iets wat ik eerst telkens opnieuw moest opzoeken elke keer dat ik het wilde gebruiken, maar nu kan typen alsof ik een tekst aan het typen ben. hoe meer je ervan af weet, hoe leuker het ook wordt. ik moet wel zeggen dat ik na het blok, de opdracht even heb gelaten voor wat het was, en pas voor de herkansing er weer mee verder aan de slag ging en ik merkte dat alle kennis al heel snel was verwaterd. alle basics moest ik weer elke keer opnieuw opzoeken, maar na paar dagen had ik dit ook weer onder de knie. 
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  - iets waarvan ik achteraf veel baat bij zou hebben gehad is de breakdown maken van de pagina's. ik heb deze opdracht over het hoofd gezien, wat best zonde is. ik had week 1 read.me verder wel bijgehouden en later ook niet meer naar week 1 omgekeken. als ik een duidelijke breakdown voor mijzelf had gemaakt zou ik veel meer overzicht hebben het opstellen van de html en daarbij denk ik misschien ook wat meer overzicht in mijn css. vanwege het feit dat ik dit niet op het begin heb gedaan, laat ik het ook hierbij en heb ik besloten het niet alsnog achteraf te maken, aangezien dat weinig zin heeft nu ik mijn site al af heb. ik neem dit wel zeker mee naar volgende keer dat ik echt ga beginnen met een breakdown schets maken om het mijzelf een stuk makkelijker en overzichtelijker te maken.
+
+- daarnaast iets dat mij niet volledig is gelukt is het full frame maken van de site. ik begon met een webversie en ben daarna overgegaan naar mobiel. ik heb dit in een nieuw html bestand gedaan, maar de breedte van de website bleef web-versie, terwijl de content dat niet werd. ook als ik in css width op 100% zet komt het wel overeen met mobiele versie. ik heb aan de studentassistentes gevraagd of dit een probleem was maar gelukkig vertelde zij mij dat zolang de afmetingen kloppen wanneer je doorklikt en de pagina refresht klopt, het allemaal oke is. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
