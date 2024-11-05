@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepage Chamberlain Coffee
   <img src="readme-images/home-chamberlaincoffee-screenshot.png" width="375px" alt="home page chamberlain coffee">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  About page Chamberlain Coffee 
   <img src="readme-images/about-chamberlaincoffee-screenshot.png" width="375px" alt="about page chamberlain coffee">
  
 </details>
