@@ -57,10 +57,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-- er wordt alles voorgelezen
-- veel minder orde
-- heel chaotisch
-- kost veel meer tijd om iets te vinden
+- er wordt alles voorgelezen. het stopt niet vanzelf. zolang je nergens op klikt blijft het maar doorgaan. dit kan best overprikkelend zijn.
+- er wordt voorgelezen wat je aan het typen bent
+- veel minder orde dan normaal gebruik
+- heel chaotisch. je moet het goed onder de knie hebben wil je hier gemakkelijk doorheen navigeren.
+- op de google pagina gaat dit een stuk rustiger. duidelijker hoe en wat de inhoud van de pagina is. 
+- op de site hoor je constant "voer engels in afbeelding met codes erbij
+- echt elke handeling die je uitvoer wordt opgenoemd
+- kost veel meer tijd om iets te vinden omdat alles 1 voor 1 moet worden opgenoemd
+- aan het begin ging die ook alles in de search balk opnoemen. iets wat niet handig is als dit elke keer weer opnieuw gebeurd.
 
 </details>
 
