@@ -25,7 +25,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Surface
  
 </details>
-
+Ik sta op dit moment op het blauwe niveau, ik vind het oprecht wel interessant om codes te leren, maar ik merk dat ik bij voorgaande vakken veel moeite mee heb. Ik merk dat ik de verbanden een stuk minder snel zie dan dat anderen dat zien. Ik heb hierdoor veel baat bij hulp van anderen, maar zie dat we gelukkig ook 3 student assistentes hebben. Voor mij is dit een best uitdagende opdracht, tijdens de eerste les realiseerde ik al dat ik veel van de kennis uit het eerste jaar al vergeten ben (ondanks ik beide vakken wel heel goed had afgerond). Ik ga eerst terug naar de basis voor ik mij ga verdiepen in nieuwe stof.
 
 
 
