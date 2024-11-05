@@ -41,11 +41,11 @@ Ik sta op dit moment op het blauwe niveau, ik vind het oprecht wel interessant o
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Chamberlain Coffee home page 
-  <img src="/readme-images/home-chamberlaincoffee-screenshot.png" width="375px" alt="home page chamberlain coffee">
+  <img src="readme-images/home-chamberlaincoffee-screenshot.png" width="375px" alt="home page chamberlain coffee">
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Chamberlain Coffee about page  
-  <img src="/readme-images/about-chamberlaincoffee-screenshot.png" width="375px" alt="about page chamberlain coffee">
+  <img src="readme-images/about-chamberlaincoffee-screenshot.png" width="375px" alt="about page chamberlain coffee">
  
 </details>
 
